@@ -1,0 +1,16 @@
+[W 2023-04-08 09:43:51.049 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-08 09:43:51.049 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-08 09:43:51.049 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-08 09:43:51.049 LabApp] 'password_required' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-08 09:43:51.050 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-08 09:43:51.050 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-08 09:43:51.050 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-04-08 09:43:51.050 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-04-08 09:43:51.058 LabApp] JupyterLab extension loaded from /home/ubuntu/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-04-08 09:43:51.058 LabApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 09:43:51.063 NotebookApp] Serving notebooks from local directory: /home/ubuntu/do_it_Python
+[I 09:43:51.063 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 09:43:51.063 NotebookApp] http://ip-172-31-12-61:8888/
+[I 09:43:51.063 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:44:45.351 NotebookApp] 302 GET / (125.179.183.72) 0.560000ms
+[I 09:44:46.443 NotebookApp] 302 GET / (125.179.183.72) 0.540000ms
