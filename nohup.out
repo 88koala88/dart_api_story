@@ -14,3 +14,7 @@
 [I 09:43:51.063 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 [I 09:44:45.351 NotebookApp] 302 GET / (125.179.183.72) 0.560000ms
 [I 09:44:46.443 NotebookApp] 302 GET / (125.179.183.72) 0.540000ms
+Traceback (most recent call last):
+  File "/home/ubuntu/dart_api_story/dart_company_info_crawl.py", line 32, in <module>
+    now = datetime.now()
+NameError: name 'datetime' is not defined
